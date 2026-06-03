@@ -22,6 +22,11 @@ p{
  line-height: 25px;
 }
 
+.imagem{
+ width: 30%;
+ margin-top: 20px;
+}
+
 .lista{
  text-align: left;
  width: 300px;
@@ -35,12 +40,9 @@ p{
 
 footer{
  margin-top: 50px;
+ margin-bottom: 30px;
 }
 
 footer a{
  margin: 15px;
-}
-.imagem{
- width: 40%;
- margin-top: 15px;
 }
