@@ -7,16 +7,36 @@ body{
 h1{
  color: rgb(190,0,0);
  font-style: italic;
+ margin-top: 30px;
 }
 
 h2{
  color: rgb(220,220,220);
+ margin-top: 40px;
+}
+
+p{
+ width: 80%;
+ margin: auto;
+ margin-top: 20px;
+ line-height: 25px;
 }
 
 .lista{
  text-align: left;
+ width: 300px;
+ margin: auto;
+ margin-top: 20px;
 }
 
 .pizza{
  color: rgb(255,120,120);
+}
+
+footer{
+ margin-top: 50px;
+}
+
+footer a{
+ margin: 15px;
 }
