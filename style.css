@@ -1,48 +1,48 @@
 body{
- background-color: rgb(20,20,20);
- text-align: center;
- color: white;
+    background-color: rgb(20,20,20);
+    text-align: center;
+    color: white;
 }
 
 h1{
- color: rgb(190,0,0);
- font-style: italic;
- margin-top: 30px;
+    color: rgb(190,0,0);
+    font-style: italic;
+    margin-top: 30px;
 }
 
 h2{
- color: rgb(220,220,220);
- margin-top: 40px;
+    color: rgb(220,220,220);
+    margin-top: 40px;
 }
 
 p{
- width: 80%;
- margin: auto;
- margin-top: 20px;
- line-height: 25px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    line-height: 25px;
 }
 
 .imagem{
- width: 50%;
- margin-top: 25px;
+    width: 40%;
+    margin-top: 20px;
 }
 
 .lista{
- text-align: left;
- width: 300px;
- margin: auto;
- margin-top: 20px;
+    text-align: left;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
 }
 
 .pizza{
- color: rgb(255,120,120);
+    color: rgb(255,120,120);
 }
 
 footer{
- margin-top: 50px;
- margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
 
 footer a{
- margin: 15px;
+    margin: 15px;
 }
